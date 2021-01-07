@@ -1,0 +1,40 @@
+/*general size settings*/
+html, body {
+    width: 90vw;
+    height: 90vh;
+    background-color: #0C0C0D;
+}
+
+/*settings for mainDiv*/
+#dragDiv{
+    /*background colour*/
+    background-color: beige;
+    /*sets size*/
+    height: 80vh;
+    width: 80vh;
+    /*sets position to be exactly centered*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*margins*/
+    margin: 0;
+    padding: 0;
+}
+
+/*settings for movable divs*/
+.movable{
+    position: relative;
+    /*background colour of each div*/
+    background-color: #35287e;
+    /*size*/
+    height: 10vh;
+    width: 10vh;
+    /*giving each div a border (width style colour)*/
+    border: 0.05vw solid darkorange;
+}
+
+.header{
+    height: 1vh;
+    background-color: lawngreen;
+}

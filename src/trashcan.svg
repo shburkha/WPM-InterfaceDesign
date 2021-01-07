@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Ebene_1" x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve" width="252" height="252">
+<style type="text/css">
+	.st0{fill:#6F6F6F;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{fill:#1F97D0;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{fill:#6F6F6F;stroke:#1F97D0;stroke-miterlimit:10;}
+	.st6{fill:#1F97D0;stroke:#1F97D0;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#6F6F6F;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#1F97D0;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#6F6F6F;}
+	.st11{fill:#6F6F6F;stroke:#6F6F6F;stroke-miterlimit:10;}
+	.st12{fill:#1A171B;}
+	.st13{fill:#D64142;}
+	.st14{fill:#FFDD00;}
+	.st15{fill:#4A82BD;}
+	.st16{fill:#53B474;}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#53B474;}
+	.st18{fill:#00378A;}
+	.st19{fill:none;stroke:#6F6F6F;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#6F6F6F;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st21{fill:#FFFFFF;stroke:#1F97D0;stroke-miterlimit:10;}
+	.st22{fill:#D3995F;}
+	.st23{fill:#9C69BD;}
+	.st24{fill:#92AB69;}
+	.st25{fill:#F7F3F7;}
+</style>
+<g>
+	<g>
+		<g>
+			<line class="st25" x1="11.5" y1="12.1" x2="12.6" y2="22.4"/>
+			<path class="st0" d="M12.6,22.9c-0.3,0-0.5-0.2-0.5-0.5l-1-10.3c0-0.3,0.2-0.5,0.4-0.5c0.3,0,0.5,0.2,0.5,0.4l1,10.3     C13.1,22.6,12.9,22.9,12.6,22.9C12.6,22.9,12.6,22.9,12.6,22.9z"/>
+		</g>
+		<g>
+			<line class="st25" x1="20.5" y1="12.1" x2="19.4" y2="22.4"/>
+			<path class="st0" d="M19.4,22.9C19.4,22.9,19.4,22.9,19.4,22.9c-0.3,0-0.5-0.3-0.5-0.5L20,12c0-0.3,0.3-0.5,0.5-0.4     c0.3,0,0.5,0.3,0.4,0.5l-1,10.3C19.9,22.7,19.7,22.9,19.4,22.9z"/>
+		</g>
+		<g>
+			<path class="st0" d="M16,22.9c-0.3,0-0.5-0.2-0.5-0.5V12.1c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v10.3     C16.5,22.7,16.3,22.9,16,22.9z"/>
+		</g>
+	</g>
+	<path class="st0" d="M27,7h-7.5V5.6c0-0.6-0.5-1.1-1.1-1.1h-4.8c-0.6,0-1.1,0.5-1.1,1.1V7H5v1h1.2l2.1,19.5h15.4L25.8,8H27V7z    M22.8,26.5H9.2L7.2,8h5.3h7h5.3L22.8,26.5z M13.5,5.6c0-0.1,0-0.1,0.1-0.1h4.8c0.1,0,0.1,0,0.1,0.1V7h-5V5.6z"/>
+</g>
+</svg>

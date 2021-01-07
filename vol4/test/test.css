@@ -1,0 +1,35 @@
+/*general document settings*/
+html, body {
+    background-color: black;
+}
+
+/*button for new divs*/
+#buttonNewDiv {
+    position: relative;
+    top:5px;
+    left: 10px;
+    width: 50px;
+    height: 20px;
+}
+
+/*big container for divs*/
+#bigDiv {
+    background-color: beige;
+    height: 70vh;
+    width: 70vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*flexbox*/
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*little divs*/
+.subDivs {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}

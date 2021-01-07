@@ -1,0 +1,10 @@
+.movable {
+    position: absolute;
+    top: 0;
+    height: 60px;
+    width: 100px;
+    background: #15a5ed;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 15px 15px 15px 15px;
+}
