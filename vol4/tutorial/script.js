@@ -58,10 +58,10 @@ function newChild() {
 /*locks a div*/
 function lock(e) {
     let lockButton = e.target;
-    if (getComputedStyle(lockButton).backgroundColor === "rgb(128, 128, 128)") {
+    if (lockButton.parentElement.getAttribute("draggable") === "true") {
         lockButton.style.backgroundColor = "red";
         lockButton.parentElement.setAttribute("draggable", "false");
-    } else if (getComputedStyle(lockButton).backgroundColor === "rgb(255, 0, 0)") {
+    } else if (lockButton.parentElement.getAttribute("draggable") === "false") {
         lockButton.style.backgroundColor = "gray";
         lockButton.parentElement.setAttribute("draggable", "true");
     }
