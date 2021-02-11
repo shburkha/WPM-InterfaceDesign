@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!--CSS reference-->
+    <link rel="stylesheet" href="style.css">
+    <title>Vol 4 Tutorial</title>
+</head>
+<body>
+<!--TODO: add a "startContainer" were new nodes are places. so you can sort them by yourself-->
+
+<!--button creates new subDiv in container-->
+    <button id="buttonNewDiv" onclick="newChild()"></button>
+    <!--contains all the containers-->
+    <div id="bigDiv">
+
+        <!--first container-->
+        <div id="firstContainer" class="container">
+            <!--all draggable divs have the attribute draggable-->
+            <!--draggable div 1-->
+            <div class="draggable" draggable="true">
+                <p>1</p>
+                <div class="lockButton" onclick="lock(event)"></div>
+            </div>
+            <!--draggable div 2-->
+            <div class="draggable" draggable="true">
+                <p>2</p>
+                <div class="lockButton"></div>
+            </div>
+        </div>
+
+        <!--second container-->
+        <div class="container">
+            <!--draggable div 3-->
+            <div class="draggable" draggable="true">
+                <p>3</p>
+                <div class="lockButton"></div>
+            </div>
+            <!--draggable div 4-->
+            <div class="draggable" draggable="true">
+                <p>4</p>
+                <div class="lockButton"></div>
+            </div>
+        </div>
+
+        <!--third container-->
+        <div class="container">
+            <!--draggable div 5-->
+            <div class="draggable" draggable="true">
+                <p>5</p>
+                <div class="lockButton"></div>
+            </div>
+            <!--draggable div 6-->
+            <div class="draggable" draggable="true">
+                <p>6</p>
+                <div class="lockButton"></div>
+            </div>
+        </div>
+
+
+
+    <!--third container = "trashcan"-->
+    <div id="trashcan" class="container"></div>
+        
+</div>
+    <!--javaScript reference-->
+    <script src="script.js"></script>
+
+</body>
+</html>

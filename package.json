@@ -1,0 +1,10 @@
+{
+  "name": "WPM-InterfaceDesign",
+  "version": "1.0.0",
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.0.0"
+  }
+}

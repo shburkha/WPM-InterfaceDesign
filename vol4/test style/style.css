@@ -1,0 +1,42 @@
+/*general size settings*/
+html, body {
+    background-color: #0C0C0D;
+}
+
+#workspace {
+    border: 3px white;
+}
+
+/*newDivButton colour and size change*/
+#addNode {
+    /*style*/
+    background-color: green;
+    color: white;
+    padding: 5px;
+    /*positioning*/
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+/*style for grid || grid contains columns*/
+#grid {
+    display: flex;
+    flex-direction: row;
+}
+
+/*style for columns || columns contain nodes*/
+.columns {
+    /*style*/
+    background-color: beige;
+    /*size*/
+    /*setting width to 100vw lets the margin control the actual width*/
+    width: 100vw;
+    height: 80vh;
+    margin: 2vw;
+}
+
+/*style for trashcan || drag nodes here to delete them*/
+#trashcan {
+
+}

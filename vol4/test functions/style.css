@@ -1,0 +1,71 @@
+/*general document settings*/
+body {
+    margin: 0;
+}
+
+/*button for new divs*/
+#addNode {
+    position: relative;
+    top:5px;
+    left: 10px;
+    width: 50px;
+    height: 20px;
+}
+
+#bigDiv {
+    /*flexbox*/
+    display: flex;
+    flex-direction: row;
+}
+
+/*style for containers*/
+.container {
+    background-color: #333;
+    padding: 1rem;
+    margin-top: 1rem;
+    /*flexbox*/
+    display: flex;
+    flex-direction: column;
+}
+
+/*style for draggable divs*/
+.draggable {
+    /*width*/
+    width: 25vw;
+    /*general setting*/
+    padding: 1rem;
+    background-color: white;
+    border: 1px solid black;
+    cursor: move;
+    /*flexbox*/
+    display: flex;
+    justify-content: space-between;
+    /*margin*/
+    margin: 20px;
+}
+
+/*changes style while dragging*/
+.draggable.dragging {
+    opacity: .5;
+}
+
+/*settings for lockButton*/
+.lockButton {
+    /*properties*/
+    height: 20px;
+    width: 20px;
+    /*background colour*/
+    background-color: gray;
+    /*changes cursor*/
+    cursor: pointer;
+}
+
+/*trashcan*/
+#trashcan {
+    /*position: absolute;
+    top: 50px;*/
+    background-color: purple;
+    /*size*/
+    /*height: 2vw;
+    width: 2vw;*/
+}

@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f45448-d910-4716-98e9-cefd112ae270" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Prototypes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/js-yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/js-yaml.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/js-yaml.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/r.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/r.js.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/r.js.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/r_js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/r_js.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/r_js.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/argparse/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/argparse/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/argparse/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/argparse/argparse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/argparse/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/js-yaml/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/js-yaml/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/js-yaml/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/js-yaml/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/js-yaml/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/requirejs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/requirejs/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/requirejs/require.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trashcan.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol3/drag_and_drop.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol3/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol3/solution.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol3/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test functions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test functions/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test functions/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test style/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test style/initialize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test style/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol4/test/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol5 yaml/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol5 yaml/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol5 yaml/simple-switch_topology.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol5 yaml/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vol5 yaml/test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,14 +37,8 @@
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="ts.external.directory.path" value="C:\Users\shbur\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.6682.155\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -200,13 +136,15 @@
       <workItem from="1612515149974" duration="4374000" />
       <workItem from="1612524216221" duration="663000" />
       <workItem from="1613080071200" duration="42000" />
-      <workItem from="1613080114530" duration="810000" />
-      <workItem from="1613080993465" duration="91000" />
-      <workItem from="1613081093372" duration="1235000" />
+      <workItem from="1613080279574" duration="1044000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
